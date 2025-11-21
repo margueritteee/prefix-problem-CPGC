@@ -1,2 +1,3 @@
-﻿# prefix-problem-CPGC
+﻿# prefix-problem-CPGC (partiellement parallèle)
  
+
