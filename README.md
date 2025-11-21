@@ -1,3 +1,3 @@
-﻿# prefix-problem-CPGC (partiellement parallèle)
+# prefix-problem-CPGC (SEQ)
  
 
